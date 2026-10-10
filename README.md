@@ -240,6 +240,8 @@ The project provides practical knowledge of computer architecture, digital logic
 
 8bit_cup_pin.jpeg
 
+8Bit_Schematic.jpeg
+
 14. Authors
 
 - KAVIYASRI N
