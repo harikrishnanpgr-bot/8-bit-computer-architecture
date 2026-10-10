@@ -238,10 +238,6 @@ The architecture combines essential components such as the Control Unit, ALU, re
 
 The project provides practical knowledge of computer architecture, digital logic design, Verilog programming, simulation, and FPGA hardware implementation.
 
-8bit_cup_pin.jpeg
-
-8Bit_Schematic.jpeg
-
 14. Authors
 
 - KAVIYASRI N
