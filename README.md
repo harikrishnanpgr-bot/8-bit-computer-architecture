@@ -240,6 +240,8 @@ The project provides practical knowledge of computer architecture, digital logic
 
 "8-Bit Schematic"(8Bit_Schematic.jpeg)
 
+"8-Bit CPU Circuit Diagram"(8Bit_cup_circuit_diagram.jpeg)
+
 14. Authors
 
 - KAVIYASRI N
