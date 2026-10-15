@@ -1,3 +1,4 @@
+
 # 8-bit-computer-architecture
 
 8-Bit Computer Architecture Using Verilog HDL
@@ -23,6 +24,8 @@ The project provides practical experience in digital electronics, computer archi
 3. System Architecture
 
 The computer architecture consists of several interconnected modules that perform instruction processing, data storage, arithmetic operations, and control functions.
+
+<img width="1080" height="805" alt="8Bit_cup_circuit_diagram" src="https://github.com/user-attachments/assets/c7e9f135-6bb8-4730-bc96-3e27f7d51ad5" />
 
 3.1 Control Unit
 
@@ -238,9 +241,6 @@ The architecture combines essential components such as the Control Unit, ALU, re
 
 The project provides practical knowledge of computer architecture, digital logic design, Verilog programming, simulation, and FPGA hardware implementation.
 
-"8-Bit Schematic"(8Bit_Schematic.jpeg)
-
-"8-Bit CPU Circuit Diagram"(8Bit_cup_circuit_diagram.jpeg)
 
 14. Authors
 
